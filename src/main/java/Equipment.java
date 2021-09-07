@@ -9,3 +9,5 @@ public abstract class Equipment {
         return purchasePrice;
     }
 }
+//fdfdfsdfa
+
